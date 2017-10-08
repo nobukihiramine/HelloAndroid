@@ -1,14 +1,19 @@
 # HelloAndroid
 Hello Android
 
-## Introduction
 下記の環境・条件で、プロジェクトを作成
-* Android Studio : Version 2.3.3
-* Application Name : Hello Android
-* Minimum SDK : API25: Android 5.0
-* Activity : Empty Activity
+- Android Studio : Version 2.3.3
+- Application Name : Hello Android
+- Minimum SDK : API25: Android 5.0
+- Activity : Empty Activity
 
-## License
+## Requirements : 必要条件、依存関係
+- Android Studio 2.3.3
+- Android SDK 25
+- Android Build Tools v26.0.0
+- Android Support Repository
+
+## License : ライセンス
 ```
 Copyright 2017 Nobuki HIRAMINE
 
