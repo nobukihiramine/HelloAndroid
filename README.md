@@ -4,7 +4,7 @@ Hello Android
 下記の環境・条件で、プロジェクトを作成
 - Android Studio : Version 2.3.3
 - Application Name : Hello Android
-- Minimum SDK : API25: Android 5.0
+- Minimum SDK : API21: Android 5.0
 - Activity : Empty Activity
 
 ## Requirements : 必要条件、依存関係
